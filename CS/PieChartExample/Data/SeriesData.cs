@@ -16,5 +16,6 @@ namespace PieChartExample.Data {
         public int GetDataCount() => data.Count;
         public string GetLabel(int index) => data[index].Key;
         public double GetValue(int index) => data[index].Value;
+        public object GetKey(int index) => null;
     }
 }
