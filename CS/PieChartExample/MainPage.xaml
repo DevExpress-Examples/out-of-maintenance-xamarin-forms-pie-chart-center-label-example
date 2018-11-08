@@ -4,7 +4,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:PieChartExample"
              xmlns:vm="clr-namespace:PieChartExample.ViewModels"
-             xmlns:charts="clr-namespace:DevExpress.XF.Charts;assembly=DevExpress.XF.Charts">
+             xmlns:charts="clr-namespace:DevExpress.XamarinForms.Charts;assembly=DevExpress.XamarinForms.Charts">
     <ContentPage.BindingContext>
         <vm:MainViewModel/>
     </ContentPage.BindingContext>

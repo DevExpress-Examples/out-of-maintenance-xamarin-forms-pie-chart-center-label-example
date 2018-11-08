@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using DevExpress.XF.Charts;
+using DevExpress.XamarinForms.Charts;
 
 namespace PieChartExample.Data {
     public class SeriesData : IPieSeriesData {
